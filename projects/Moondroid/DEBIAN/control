@@ -1,0 +1,10 @@
+Package: com.panosmouz.moondroid
+Name: Moondroid Lollipop Theme
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Android Lollipop Theme based on Moonshine Icon Pack Open Source Project
+Homepage: http://www.twitter.com/PanosMouz
+Maintainer: Panos Mouzakis (PanosMouz) <mouzy@icloud.com>
+Author: Panos Mouzakis (PanosMouz) <mouzy@icloud.com>
+Section: Themes (Anemone)
